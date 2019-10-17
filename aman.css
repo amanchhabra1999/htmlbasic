@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+}
+.aman{
+border-style: 10px solid grey;
+    border-radius: 5px;
+text-align:center;
+margin-top: 20px;
+    margin-bottom: 100px;
+    margin-right: 300px;
+    margin-left: 300px;
+font-family: verdana;
+    font-size: 20px;
+
+outline-style: inset;
+}
+#bik
+{
+background-color:grey;
+}
